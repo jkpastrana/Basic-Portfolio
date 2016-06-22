@@ -1,0 +1,241 @@
+.Wrapper{
+
+		/*adds background image to page*/
+		background-image: url(../images/concrete.png);
+		height: 650px;
+		width: 960px;
+
+	}
+
+header{
+		
+		background-color: #ffffff;
+		height: 70px;
+		width: 960px;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 12px;
+		color: #999999;
+
+	}
+
+
+#nav{
+
+		position: relative;
+		left: 80%;
+		top:-30%;
+		text-decoration: none;
+		
+	
+
+
+	
+	}
+	
+
+#Crown{
+	
+		position: relative;
+		left: 4.25%;
+		top: 30%;
+		background-color: #4aaaa5;
+		font-family: 'Georgia', Times, Times New Roman, serif;
+		color: #ffffff;
+		text-align: center;
+		width: 300px;
+		height: 30px;
+		padding: 10px;
+
+	
+	}
+
+#bioimage{
+
+			width: 200px;
+			height: 200px;
+			margin: 10px;
+			float:left;
+	}
+/*a{
+	text-decoration:none;
+}*/
+
+.MainBio{
+		
+
+
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		width: 650px;
+		height: 500px;
+		color: #999999;
+		background-color: #ffffff;
+		border:solid 2px #dddddd;
+		position: relative;
+		left: 4.25%;
+		/*adds a border around your content*/
+		padding: 10px;
+		line-height: 200%;
+		margin-top: 30px;
+	} 
+
+
+.Connect{
+		
+		color: #4aaaa5;
+		text-align: center;
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		width: 155px;
+		height: 100px;
+		background-color: #ffffff;
+		border:solid 2px #dddddd;
+		/*moves div to location */
+		position: relative;
+		left: 77%;
+		top:-80.5%;
+		/*adds a border around your content*/
+		padding: 10px;
+		padding-bottom: 25px;
+
+	}
+
+
+footer{
+
+		text-align: center;
+		background-color: #333333;
+		border-top: solid 8px #4aaaa5;
+		color: #ffffff;
+		height: 10px;
+		width: 880px;
+		padding: 40px;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 10px;
+	}
+
+hr{
+	height: 1px;
+	color: #999999;
+	background-color: #999999;
+	boarder:none;
+	}
+
+
+
+
+
+
+	.Wrapper{
+
+			background-color:  #ffffff;
+			
+
+		}
+
+header{
+		position: relative;
+		left: 90px;
+		top: 0px;
+			}
+
+nav{
+	position: relative;
+	left: 780px;
+	padding: 20px;
+
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 12px;
+		color: #999999;
+}
+#Crown{
+
+		position: relative;
+		top: 77px;
+
+		
+	}
+
+h1{
+	
+	background-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #ffffff;
+	text-align: center;
+	width: 400px;
+	height: 45px;
+
+	
+	}
+
+#bioimage{
+
+			width: 200px;
+			height: 200px;
+			margin: 10px;
+			float:left;
+		}
+/*a{
+	text-decoration:none;
+}*/
+
+.MainBio{
+		
+
+
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		width: 700px;
+		height: 500px;
+/*		height: 80%;
+		width: 80%;*/
+		background-color: #ffffff;
+		margin: 0px 100px 0px 50px;
+		border:solid 2px #dddddd;
+		position: relative;
+		
+		/*adds a border around your content*/
+		padding: 10px;
+		line-height: 200%;
+		
+
+	} 
+
+
+.Connect{
+		
+		color: #4aaaa5;
+		text-align: center;
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		width: 200px;
+		height: 150px;
+		background-color: #ffffff;
+		border:solid 2px #dddddd;
+		/*moves div to location */
+		position: relative;
+		left: 820px;
+		bottom: 525px;
+		/*adds a border around your content*/
+		padding: 10px;
+/*		width: 30%;
+		height: 30%;*/
+
+}
+main{
+		background-color: #cccccc;
+		padding: 40px;
+		height: 530px;
+
+
+
+
+	}
+
+footer{
+
+		text-align: center;
+		background-color: #333333;
+		border-top: solid 8px #4aaaa5;
+		color: #ffffff;
+		height: 10px;
+		padding: 40px;
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		font-size: 10px;
+}
