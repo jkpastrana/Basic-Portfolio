@@ -70,7 +70,7 @@ a{
 		color: #999999;
 		background-color: #ffffff;
 		border:solid 2px #dddddd;
-		/*position: relative;*/
+		position: relative;
 		left: 4.25%;
 		/*adds a border around your content*/
 		padding: 10px;
